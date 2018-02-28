@@ -1,0 +1,7 @@
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\bin\Debug\FunctionDay.exe.config
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\bin\Debug\FunctionDay.exe
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\bin\Debug\FunctionDay.pdb
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\obj\Debug\FunctionDay.csprojResolveAssemblyReference.cache
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\obj\Debug\FunctionDay.csproj.CoreCompileInputs.cache
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\obj\Debug\FunctionDay.exe
+C:\Users\start\Source\Repos\FunctionDay\FunctionDay\obj\Debug\FunctionDay.pdb
